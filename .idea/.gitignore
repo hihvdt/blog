@@ -1,0 +1,27 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Created by .ignore support plugin (hsz.mobi)
+### me template
+.svn
+*.iml
+.idea
+.sonar
+*out
+*.settings
+*target
+*.classpath
+*.project
+tmp
+*build
+
+#ignore gradle
+.gradle/
+gradle/
+gradlew
+gradlew.bat
